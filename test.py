@@ -4,6 +4,12 @@ import pymysql
 import re
 import matplotlib.pyplot as plt
 import matplotlib
+from wordcloud import WordCloud,STOPWORDS,ImageColorGenerator
+import jieba
+import codecs
+import os
+from os import path
+from scipy.misc import imread
 
 con = pymysql.connect(
     host="localhost",
@@ -20,7 +26,8 @@ property = {}
 plt.xlabel("country")
 plt.ylabel("number")
 a = plt.subplot(1,1,1)
-zhfont1 = matplotlib.font_manager.FontProperties(fname='C:\Windows\Fonts\consola.ttf')
+
+matplotlib.matplotlib_fname()
 
 try:
     for i in range(0, 25, 25):
@@ -47,30 +54,50 @@ try:
             soup = bs4.BeautifulSoup(contents, "html.parser")
             for tag2 in soup.find_all('div', id='info'):
                 # print(str(tag2))
-                m_countrylist = re.findall("<span class=\"pl\">制片国家/地区:</span>(.*)<br/>",str(tag2))
-                countrylist = m_countrylist[0].split('/')
-                for i in countrylist:
-                    j = i.strip()
-                    print(country.keys())
-                    if j in country.keys():
-                        country[j] = country[j] + 1
-                    else:
-                        country[j] = 1
-                # m_propertylist = re.findall("<span property=\"v:genre\">(.*?)</span>",str(tag2))
-                # print(m_propertylist)
-                # for i in m_propertylist:
-                #     if i in property:
-                #         property[i] += 1
+                # m_countrylist = re.findall("<span class=\"pl\">制片国家/地区:</span>(.*)<br/>",str(tag2))
+                # countrylist = m_countrylist[0].split('/')
+                # for i in countrylist:
+                #     j = i.strip()
+                #     print(country.keys())
+                #     if j in country.keys():
+                #         country[j] = country[j] + 1
                 #     else:
-                #         property[i] = 1
-    print(country.keys())
-    print(country.values())
-    print(country)
-    x = country.keys()
-    y = country.values()
-    plt.bar(x,y)
-    plt.legend(prop=zhfont1)
+                #         country[j] = 1
+                m_propertylist = re.findall("<span property=\"v:genre\">(.*?)</span>",str(tag2))
+                print(m_propertylist)
+                for i in m_propertylist:
+                    if i in property:
+                        property[i] += 1
+                    else:
+                        property[i] = 1
+    # print(country.keys())
+    # print(country.values())
+    # print(country)
+    # x = country.keys()
+    # y = country.values()
+    # plt.bar(x,y)
+    # plt.legend()
+    # plt.show()
+    d = path.dirname(__file__)
+    alice_coloring = imread(path.join(d,"2.png"))
+
+    wc = WordCloud(
+        background_color="white",
+        mask=alice_coloring,
+        font_path='C:\Windows\Fonts\STZHONGS.TTF',
+        stopwords=STOPWORDS,
+        max_font_size=40,
+        random_state=42
+    )
+    print(property)
+    wc.generate_from_frequencies(property)
+    image_colors = ImageColorGenerator(alice_coloring)
+
+    # 以下代码显示图片
+    plt.imshow(wc)
+    plt.axis("off")
     plt.show()
+
 
                 # m_country = ','.join(m_countrylist)
                 # m_property = ','.join(m_propertylist)
