@@ -61,12 +61,30 @@ try:
                 one = stars[4]
 
 
-            print(m_name + "        " + str(m_rating_score) + "           " + m_peoplecount + "    " + m_url)
-            sql = "insert into movie(name,score,commentNum,link,country,property,five_star,four_star,three_star,two_star,one_star) values('"+m_name+"',"+str(m_rating_score)+",'"+m_peoplecount+"','"+m_url+"','"+m_country+"','"+m_property+"','"+five+"','"+four+"','"+three+"','"+two+"','"+one+"')"
+            comment_url = m_url + "/comments?status=P"
+            req = requests.get(comment_url)
+            req.encoding = "utf-8"
+            # print(req.text)
+            contents = req.text
+            movieName = re.findall("<title>(.*) 短评</title>",str(contents))
+            # print(movieName)
+            username = re.findall("<a href=\"https://www.douban.com/people/(.*)/\" class=\"\">",str(contents))
+            stars = re.findall("<span class=\"allstar(.*) rating",str(contents))
+
+            sql = "select Id from movie where name=" + "'"+movieName[0]+"'"
+            print(sql)
             cursor.execute(sql)
+            data = cursor.fetchone()
             con.commit()
 
-except Exception as e:
-    con.rollback()
+            sql = "insert into commentDetail(movieId,stars,username) value('"+str(data[0])+"','"+stars+"','"+username+"')"
+
+            # print(m_name + "        " + str(m_rating_score) + "           " + m_peoplecount + "    " + m_url)
+            # sql = "insert into movie(name,score,commentNum,link,country,property,five_star,four_star,three_star,two_star,one_star) values('"+m_name+"',"+str(m_rating_score)+",'"+m_peoplecount+"','"+m_url+"','"+m_country+"','"+m_property+"','"+five+"','"+four+"','"+three+"','"+two+"','"+one+"')"
+            # cursor.execute(sql)
+            # con.commit()
+
+# except Exception as e:
+#     con.rollback()
 finally:
     con.close()
