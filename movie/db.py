@@ -15,7 +15,6 @@ con = pymysql.connect(
 )
 cursor = con.cursor()
 
-
 try:
     for i in range(0, 25, 25):
         url = 'https://movie.douban.com/top250?start={}&filter='.format(str(i))
@@ -34,6 +33,8 @@ try:
             m_peoplecount = m_span[3].contents[0]
             m_url = tag.find('a').get('href')
 
+            if m_url == "https://movie.douban.com/subject/5912992/":
+                continue
             req = requests.get(m_url)
             req.encoding = "utf-8"
             # print(req.text)
@@ -60,29 +61,33 @@ try:
                 two = stars[3]
                 one = stars[4]
 
+            print(m_name + "        " + str(m_rating_score) + "           " + m_peoplecount + "    " + m_url)
+            sql = "insert into movie(name,score,commentNum,link,country,property,five_star,four_star,three_star,two_star,one_star) values('"+m_name+"',"+str(m_rating_score)+",'"+m_peoplecount+"','"+m_url+"','"+m_country+"','"+m_property+"','"+five+"','"+four+"','"+three+"','"+two+"','"+one+"')"
+            cursor.execute(sql)
+            con.commit()
 
             comment_url = m_url + "/comments?status=P"
             req = requests.get(comment_url)
             req.encoding = "utf-8"
             # print(req.text)
             contents = req.text
-            movieName = re.findall("<title>(.*) 短评</title>",str(contents))
+            movieName = re.findall("<title>(.*) 短评</title>", str(contents))
             # print(movieName)
-            username = re.findall("<a href=\"https://www.douban.com/people/(.*)/\" class=\"\">",str(contents))
-            stars = re.findall("<span class=\"allstar(.*) rating",str(contents))
+            username = re.findall("<a href=\"https://www.douban.com/people/(.*)/\" class=\"\">", str(contents))
+            stars = re.findall("<span class=\"allstar(.*) rating", str(contents))
 
-            sql = "select Id from movie where name=" + "'"+movieName[0]+"'"
-            print(sql)
+            sql = "select Id from movie where name=" + "'" + movieName[0] + "'"
+            # print(sql)
             cursor.execute(sql)
             data = cursor.fetchone()
             con.commit()
 
-            sql = "insert into commentDetail(movieId,stars,username) value('"+str(data[0])+"','"+stars+"','"+username+"')"
-
-            # print(m_name + "        " + str(m_rating_score) + "           " + m_peoplecount + "    " + m_url)
-            # sql = "insert into movie(name,score,commentNum,link,country,property,five_star,four_star,three_star,two_star,one_star) values('"+m_name+"',"+str(m_rating_score)+",'"+m_peoplecount+"','"+m_url+"','"+m_country+"','"+m_property+"','"+five+"','"+four+"','"+three+"','"+two+"','"+one+"')"
-            # cursor.execute(sql)
-            # con.commit()
+            movieId = str(data[0])
+            for i in range(len(stars)):
+                sql = "insert into commentDetail(movieId,stars,username) values(" + "'" + movieId + "'," + "'" + stars[i] + "'," + "'" + username[i] + "')"
+                print(sql)
+                cursor.execute(sql)
+                con.commit()
 
 # except Exception as e:
 #     con.rollback()
