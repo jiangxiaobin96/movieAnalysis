@@ -1,0 +1,1252 @@
+kingfish
+无间道      50.0
+天堂电影院    50.0
+dtype: float64
+ruxiaoguo
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+whiterhinoceros
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+madeinds
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+eve42
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+aixiaoke
+大话西游之大圣娶亲    44.574651
+美丽人生         44.537279
+dtype: float64
+hideinthecrowd
+美丽人生    46.792928
+教父      46.789241
+dtype: float64
+seawaver
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+zyl622
+机器人总动员     50.0
+三傻大闹宝莱坞    50.0
+dtype: float64
+guoyilang
+天堂电影院    43.691886
+霸王别姬     43.462810
+dtype: float64
+LadyInSatin
+霸王别姬     17.160343
+泰坦尼克号    17.096243
+dtype: float64
+wenzel
+千与千寻    48.468051
+教父      48.459337
+dtype: float64
+tjz230
+当幸福来敲门    47.440881
+触不可及      47.437653
+dtype: float64
+MonicaLi
+三傻大闹宝莱坞    40.0
+星际穿越       40.0
+dtype: float64
+antonia
+教父      40.044066
+触不可及    39.870029
+dtype: float64
+jennyqueen
+龙猫       50.0
+海上钢琴师    50.0
+dtype: float64
+shallwinyee
+辛德勒的名单    30.0
+泰坦尼克号     30.0
+dtype: float64
+rebekah
+霸王别姬     45.946864
+海上钢琴师    45.935360
+dtype: float64
+onshuway
+龙猫      50.0
+美丽人生    50.0
+dtype: float64
+39994655
+忠犬八公的故事    20.0
+龙猫         20.0
+dtype: float64
+wusheng
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+B612minmin
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+toonan
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+qfy
+乱世佳人    50.0
+千与千寻    50.0
+dtype: float64
+jimo
+楚门的世界        40.179303
+大话西游之大圣娶亲    40.155226
+dtype: float64
+beiliya
+触不可及      41.448593
+肖申克的救赎    41.410230
+dtype: float64
+rachel-rachel
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+ballteda
+乱世佳人      45.328057
+肖申克的救赎    45.239986
+dtype: float64
+GariberZyo
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+fengxueting
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Jane_1-29
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+JulyChan
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+fish_zhao
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+HiddenParadise
+辛德勒的名单    50.0
+肖申克的救赎    50.0
+dtype: float64
+benjamin-linus
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+1723626
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+samsa
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+bighead
+海上钢琴师    44.767625
+霸王别姬     44.765367
+dtype: float64
+piggytea
+盗梦空间    43.453240
+千与千寻    43.443325
+dtype: float64
+shinewewe
+教父         50.0
+三傻大闹宝莱坞    50.0
+dtype: float64
+lisaLeung
+龙猫      40.0
+星际穿越    40.0
+dtype: float64
+airtony
+盗梦空间    50.0
+无间道     50.0
+dtype: float64
+hjaoxjl
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+zephyrance
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+MissSunflower
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+annhsu
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+44653541
+龙猫      30.0
+霸王别姬    30.0
+dtype: float64
+MancunianJor
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Cherry
+星际穿越         50.0
+大话西游之大圣娶亲    50.0
+dtype: float64
+wangmei
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Nalakuvara...
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Hamlet-Luang
+龙猫        50.0
+辛德勒的名单    50.0
+dtype: float64
+airan712
+泰坦尼克号    43.911147
+阿甘正传     43.825665
+dtype: float64
+2018008
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+auntbear
+千与千寻    34.380500
+霸王别姬    34.043616
+dtype: float64
+Daisy
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+katelan
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+magic828
+泰坦尼克号     46.913740
+机器人总动员    46.903835
+dtype: float64
+josie_zhou
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+boliwawa
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+oceanheart
+肖申克的救赎     48.731761
+这个杀手不太冷    48.727243
+dtype: float64
+kirk1226
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Zizou_Vam
+放牛班的春天    45.341179
+辛德勒的名单    45.241199
+dtype: float64
+152930642
+龙猫      40.0
+星际穿越    40.0
+dtype: float64
+1386174
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+CammyWhite
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+54793495
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Ms.unknown
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+jiyihanxing
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+monotonousftw
+龙猫      40.0
+星际穿越    40.0
+dtype: float64
+allancywang
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+freshyyblue
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Over5
+泰坦尼克号    35.027560
+触不可及     34.697417
+dtype: float64
+MMT
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+ocean_kwai
+霸王别姬     34.420930
+楚门的世界    34.335559
+dtype: float64
+chenshiniao
+龙猫      30.0
+乱世佳人    30.0
+dtype: float64
+mydear1011
+放牛班的春天    45.549228
+龙猫        45.489939
+dtype: float64
+zingyu
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+lindiandian
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+ga0yang
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+sara127266
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+zishuiyilan
+机器人总动员    47.680655
+霸王别姬      47.628657
+dtype: float64
+mr.slow
+机器人总动员    30.0
+龙猫        30.0
+dtype: float64
+garfieldcr
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+duanmuyi
+这个杀手不太冷    40.338497
+肖申克的救赎     40.282849
+dtype: float64
+naocanqiang
+楚门的世界     50.0
+肖申克的救赎    50.0
+dtype: float64
+xmsgjqr
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+takizhang
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+grass17
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+lareinaqueen
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+luanluanyu
+海上钢琴师     45.314194
+辛德勒的名单    45.241679
+dtype: float64
+gucci122
+阿甘正传      50.0
+辛德勒的名单    50.0
+dtype: float64
+Leeonjel
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+Tanoshiyi
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+a_faker
+龙猫      40.0
+霸王别姬    40.0
+dtype: float64
+XI_LI
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+xiaoxiaohong
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+w85824
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+emilycat
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+backdrifts
+龙猫       30.0
+天堂电影院    30.0
+dtype: float64
+vividtime
+龙猫      50.0
+乱世佳人    50.0
+dtype: float64
+darlingtudai
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+watermelon
+龙猫      40.0
+霸王别姬    40.0
+dtype: float64
+154019316
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+jqingyu
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+sissy168
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+new4new4
+楚门的世界    50.0
+阿甘正传     50.0
+dtype: float64
+amutofade
+龙猫      50.0
+美丽人生    50.0
+dtype: float64
+red.
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+CFJ
+教父    20.0
+龙猫    20.0
+dtype: float64
+xiaoaiposui
+机器人总动员    37.049341
+乱世佳人      36.309830
+dtype: float64
+58930883
+教父    40.0
+龙猫    40.0
+dtype: float64
+datouma
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+movie007wn
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+cabaret
+乱世佳人       44.076865
+这个杀手不太冷    44.036639
+dtype: float64
+grassye
+教父    40.0
+龙猫    40.0
+dtype: float64
+luhua
+美丽人生      45.438707
+辛德勒的名单    45.355028
+dtype: float64
+1524942
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+qijiuzhiyue
+星际穿越    40.0
+乱世佳人    40.0
+dtype: float64
+bladerunner2
+星际穿越      50.0
+放牛班的春天    50.0
+dtype: float64
+hello.louis
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+overhyde
+龙猫      40.0
+星际穿越    40.0
+dtype: float64
+autism
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+seren
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+kingkongofkhan
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+ztiti
+星际穿越    50.0
+阿甘正传    50.0
+dtype: float64
+TOROVANDARKO
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+copenlee
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+fir_alps
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+flowerowl
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Dbxiong
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+4073793
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+yangjiepd
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+luvis1499
+龙猫      40.0
+星际穿越    40.0
+dtype: float64
+ragingbull
+忠犬八公的故事    30.0
+龙猫         30.0
+dtype: float64
+fortblk
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+SWX
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+vivipico
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+Ragdoll
+忠犬八公的故事    40.0
+海上钢琴师      40.0
+dtype: float64
+malance1019
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+bellefille
+忠犬八公的故事    40.0
+海上钢琴师      40.0
+dtype: float64
+ahbei
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+chongxiaochong
+忠犬八公的故事    40.0
+海上钢琴师      40.0
+dtype: float64
+junepigpku
+忠犬八公的故事    40.0
+海上钢琴师      40.0
+dtype: float64
+connie_326
+乱世佳人    30.0
+千与千寻    30.0
+dtype: float64
+ashinstancy
+忠犬八公的故事    40.0
+海上钢琴师      40.0
+dtype: float64
+qdmimi19810920
+美丽人生    45.515196
+龙猫      45.474855
+dtype: float64
+luka90123
+触不可及    14.925031
+盗梦空间    14.921139
+dtype: float64
+richer725
+机器人总动员    10.0
+星际穿越      10.0
+dtype: float64
+soblue.solo
+机器人总动员    40.0
+星际穿越      40.0
+dtype: float64
+darkiddy
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+boliang
+龙猫      30.0
+霸王别姬    30.0
+dtype: float64
+yaya
+机器人总动员    20.0
+星际穿越      20.0
+dtype: float64
+61212078
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+lyiming2
+龙猫      30.0
+霸王别姬    30.0
+dtype: float64
+kick-my-ass
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+lankaiyin
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+poplar-xu
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+sixi330
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+3292582
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+dodokong
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+linglong990
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+Breave.5
+霸王别姬    40.0
+龙猫      40.0
+dtype: float64
+han_han
+霸王别姬    20.0
+龙猫      20.0
+dtype: float64
+jack_kr2
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+MichelleHong
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+zimomo
+霸王别姬    20.0
+龙猫      20.0
+dtype: float64
+Lan.die
+美丽人生      46.914248
+放牛班的春天    46.877168
+dtype: float64
+sunyiye
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+teven
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+guyuemuziye2
+霸王别姬    20.0
+龙猫      20.0
+dtype: float64
+axdoor
+霸王别姬    40.0
+龙猫      40.0
+dtype: float64
+film101
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+nina
+机器人总动员    40.0
+乱世佳人      40.0
+dtype: float64
+hehudie13
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+choooooi
+机器人总动员    40.0
+乱世佳人      40.0
+dtype: float64
+centlelover
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+malingcat
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+farmyra
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+bobomio
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+sududu
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+zhangzongqian
+放牛班的春天    35.126254
+辛德勒的名单    35.125099
+dtype: float64
+l.yang
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+Mrlonely
+机器人总动员    40.0
+乱世佳人      40.0
+dtype: float64
+Tata_1107
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+amandazmd
+机器人总动员    40.0
+乱世佳人      40.0
+dtype: float64
+daladida
+机器人总动员    40.0
+盗梦空间      40.0
+dtype: float64
+shadow821
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+asano
+机器人总动员    40.0
+乱世佳人      40.0
+dtype: float64
+Aspire
+机器人总动员    40.0
+乱世佳人      40.0
+dtype: float64
+sy712
+教父    45.403536
+龙猫    45.237773
+dtype: float64
+samuleP
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+A-sun
+海上钢琴师    40.354709
+触不可及     40.322437
+dtype: float64
+Len.
+无间道     40.101138
+千与千寻    40.050160
+dtype: float64
+cecilia2l
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+love.lv
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+1164852
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+suzhenshu
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+dovip
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+lukeke
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+VinKhan
+天堂电影院    47.091171
+美丽人生     47.049190
+dtype: float64
+leo1983
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+Kev.Garnett
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+run11run
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+crpily
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+cheeringo
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+1007939
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+cat17fish1
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+MissSweety
+龙猫        20.0
+机器人总动员    20.0
+dtype: float64
+58985814
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+yoyoyoyoyoyoyo
+天堂电影院    30.0
+楚门的世界    30.0
+dtype: float64
+kop-de
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+48731776
+泰坦尼克号    10.0
+龙猫       10.0
+dtype: float64
+divi-divi
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+No.59355
+泰坦尼克号    40.0
+龙猫       40.0
+dtype: float64
+jywpl
+泰坦尼克号    40.0
+龙猫       40.0
+dtype: float64
+luohuai
+美丽人生     30.0
+楚门的世界    30.0
+dtype: float64
+huzibeer
+泰坦尼克号    40.0
+龙猫       40.0
+dtype: float64
+Uvo
+泰坦尼克号    40.0
+龙猫       40.0
+dtype: float64
+ipodmelody
+这个杀手不太冷    45.298689
+龙猫         45.205507
+dtype: float64
+xseac
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+jessielee1018
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+water6954
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+46843344
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+mjxian
+盗梦空间    40.0
+霸王别姬    40.0
+dtype: float64
+mysubi
+盗梦空间    40.0
+霸王别姬    40.0
+dtype: float64
+eowynlost18
+触不可及    50.0
+霸王别姬    50.0
+dtype: float64
+dyingpluto
+盗梦空间    40.0
+霸王别姬    40.0
+dtype: float64
+wusuoweizhe
+触不可及    50.0
+霸王别姬    50.0
+dtype: float64
+su-su
+辛德勒的名单    30.0
+美丽人生      30.0
+dtype: float64
+62675594
+触不可及    50.0
+霸王别姬    50.0
+dtype: float64
+1451680
+触不可及    50.0
+霸王别姬    50.0
+dtype: float64
+raquelycidas
+触不可及    50.0
+霸王别姬    50.0
+dtype: float64
+nwwfewx
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+pinkxblack
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+yuanyuandouban
+触不可及    40.0
+龙猫      40.0
+dtype: float64
+iamseven
+触不可及    40.0
+龙猫      40.0
+dtype: float64
+svernal
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+italy369
+触不可及    40.0
+龙猫      40.0
+dtype: float64
+candyandclouds
+触不可及    40.0
+龙猫      40.0
+dtype: float64
+miuccia
+无间道       45.372396
+辛德勒的名单    45.266029
+dtype: float64
+nvbiantai
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+basten1988
+龙猫      50.0
+星际穿越    50.0
+dtype: float64
+funny_v
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+firedances
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+39327656
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+fsisme
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+Black_Tulip
+忠犬八公的故事    40.0
+龙猫         40.0
+dtype: float64
+mandarinsay
+机器人总动员    30.0
+美丽人生      30.0
+dtype: float64
+sheeplisa
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+duchamp
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+alexandrawoo
+龙猫      30.0
+星际穿越    30.0
+dtype: float64
+luzhiyu
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+juani7549
+楚门的世界    20.0
+龙猫       20.0
+dtype: float64
+rakumm
+楚门的世界    40.0
+龙猫       40.0
+dtype: float64
+conetoiles
+楚门的世界    40.0
+龙猫       40.0
+dtype: float64
+xingxing028
+楚门的世界    20.0
+龙猫       20.0
+dtype: float64
+wisely1229
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+post-rocker
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+fanzhen
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+Brettish
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+grinch
+楚门的世界    40.0
+龙猫       40.0
+dtype: float64
+yyy18n
+楚门的世界    40.0
+龙猫       40.0
+dtype: float64
+balababa
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+fantasychang
+楚门的世界    40.0
+龙猫       40.0
+dtype: float64
+ridden
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+hetaojiazi
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+Cutebabyblue
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+beard
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+sophie.bian
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+shihaolou
+龙猫        10.0
+机器人总动员    10.0
+dtype: float64
+jean
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+iris15
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+phoebe4ever
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+zhl
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+luc1en
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+xiaoV
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+nirvanasky
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+vodkaorlsd
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+about-once
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+microblue
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+oldtime
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+hastorang
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+pinkonion
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+maybe-stella
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+antony0411
+龙猫        20.0
+机器人总动员    20.0
+dtype: float64
+tofucius
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+irisss
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+dyinsun
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+umbanana
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+gnky
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+yidoudou
+龙猫        40.0
+机器人总动员    40.0
+dtype: float64
+Ciyunw
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+faye17
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+jeffersontang
+龙猫        50.0
+机器人总动员    50.0
+dtype: float64
+62654988
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+44290578
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+61315947
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+cxyshang
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+ljgyhj
+楚门的世界     20.0
+机器人总动员    20.0
+dtype: float64
+54441934
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+Tenser
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+1491623
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+nocturnelee
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+terry_f
+楚门的世界     20.0
+机器人总动员    20.0
+dtype: float64
+crankysophia
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+36469927
+楚门的世界     10.0
+机器人总动员    10.0
+dtype: float64
+3540441
+楚门的世界     40.0
+机器人总动员    40.0
+dtype: float64
+seasonkiddo
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+Suxyue
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
+PandaMovieMusic
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+shezaizuyi
+龙猫      50.0
+霸王别姬    50.0
+dtype: float64
+dawenxi
+龙猫        30.0
+机器人总动员    30.0
+dtype: float64
