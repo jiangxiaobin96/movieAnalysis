@@ -64,12 +64,81 @@ try:
     x = country.keys()
     y = country.values()
     plt.figure(1)
-    plt.xlabel("country")
-    plt.ylabel("number")
-    a = plt.subplot(1, 1, 1)
-    plt.bar(x,y)
-    plt.legend()
+plt.subplot(321)
 
+#国家分类
+#条形图
+plt.ylabel("数量")    #y lable
+a=[1,2,3,4,5,6,7,8,9,10,11,12]
+y=[12, 2, 3, 4, 3, 2, 3, 1, 1, 1, 1, 1]
+plt.bar(a,y,color='r')
+labels=x
+plt.xticks(a,labels, rotation=0) 
+plt.title('影片国家分布')  #title
+
+plt.subplot(325)
+
+#饼形图
+slices = y  #number
+activities = x
+cols = ['c','m','r','b','lawngreen','darkred','m','deeppink','navy','grey','peru','olive']
+
+plt.pie(slices,
+        labels=activities,
+        colors=cols,
+		startangle=90,
+		)
+
+
+#折线图
+plt.subplot(323)
+plt.ylabel("数量")    #y lable
+a=[1,2,3,4,5,6,7,8,9,10,11,12]
+y=[12, 2, 3, 4, 3, 2, 3, 1, 1, 1, 1, 1]
+plt.plot(a,y,color='r')
+labels=x
+plt.xticks(a,labels, rotation=0) 
+
+m=property.keys()
+n=property.values()
+
+
+#类型分类
+#条形图
+plt.subplot(322)
+
+plt.ylabel("数量")    #y lable
+b=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+plt.bar(b,y,color='b')
+labels=m
+plt.xticks(b,labels, rotation=0) 
+plt.title('影片类型分布')  #title
+
+plt.subplot(326)
+
+#饼形图
+slices = n  #number
+activities =m
+cols = ['c','m','r','b','lawngreen','darkred','m','deeppink','navy','grey','peru','olive','palegreen']
+
+plt.pie(slices,
+        labels=activities,
+        colors=cols,
+		startangle=90,
+		)
+
+
+#折线图
+plt.subplot(324)
+
+plt.ylabel("数量")    #y lable
+b=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+plt.plot(b,n,color='b')
+labels=m
+plt.xticks(b,labels, rotation=0) 
+
+	
+plt.show()
 
 
     #类型词云
